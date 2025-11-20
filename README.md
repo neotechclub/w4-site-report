@@ -30,3 +30,5 @@ The workshop adhered to three critical success metrics:
 -> **Identity Verification:** Successful GitHub authentication for all users.  
 -> **Global Availability:** Deployment of a live endpoint at `https://<username>.github.io`.  
 -> **Asset Customization:** Successful modification of the template to reflect unique user identities, proving they didn't just copy-paste blindly.  
+
+![Pie Chart](./assets/circle.png)
